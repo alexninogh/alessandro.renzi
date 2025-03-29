@@ -1,6 +1,6 @@
 # Personal site of Alessandro Renzi
 
-I am a researcher in cosmology at the [University of Padova](https://www.unipd.it/en/contatti/rubrica?detail=Y&ruolo=1&checkout=cerca&persona=renzi&key=5F749F2E49E4888AE8B2F471823535B3) (UniPD) and National Institute of Nuclear Physics - [INFN](https://baltig.infn.it/alexnino/alessandro.renzi). My work is at the crossroads of Cosmology, High Performance Computing, Data Analysis and Signal Processing.
+I am a researcher in cosmology at the [University of Padova](https://unipd.it/en) (UniPD) and National Institute of Nuclear Physics - [INFN](https://infn.it/en). My research lies at the intersection of Cosmology, High-Performance Computing, Data Analysis, and Signal Processing.
 
 I can program in Julia, Fortran, C, Python, C++ (listed in order of enjoyment when coding :stuck_out_tongue_winking_eye:).
 
@@ -15,11 +15,11 @@ I can program in Julia, Fortran, C, Python, C++ (listed in order of enjoyment wh
 
 ## Curriculum Vitae
 
-Follow the link for the [CV Extended Version](./cv/extended_cv.md).
+Follow the link for the [CV Extended Version](https://unipdit-my.sharepoint.com/:w:/g/personal/alessandro_renzi_unipd_it/EWOdXji9SllAh4bUyg-leHMBBVaOi0xCEnhXu7GmtiEoNA?e=RFgfbU).
 
 ## Teaching
 
-To see the list of my courses in the current academic year follow this [link](https://en.didattica.unipd.it/off/docente/5F749F2E49E4888AE8B2F471823535B3).
+To view the list of courses I'm teaching in the current academic year, please click on this [link](https://en.didattica.unipd.it/off/docente/5F749F2E49E4888AE8B2F471823535B3). To view the complete list of courses I've taught to date, please click [here](https://www.unipd.it/en/contatti/rubrica?detail=Y&ruolo=1&checkout=cerca&persona=renzi&key=5F749F2E49E4888AE8B2F471823535B3) 
 
 - [Modern Computing for Physics](./teaching/mc4p/mc4p-index.md) - GPU and HPC - Course for the [Physics of Data MSc](https://www.unipd.it/en/educational-offer/second-cycle-degree/school-of-science?tipo=LM&scuola=SC&ordinamento=2025&key=SC2995)
 
@@ -56,7 +56,6 @@ You can see the full list of my publication using the following [link](https://u
 
 > [!NOTE]
 > All information in this repository are under the following [LICENSE](./LICENSE).
-
 
 > [!WARNING] 
 > At the time of starting this personal site project, 29/03/2025, most of the pages and informations are under contruction.
