@@ -4,7 +4,7 @@ I am a researcher in cosmology at the [University of Padova](https://www.unipd.i
 
 I can program in Julia, Fortran, C, Python, C++ (listed in order of enjoyment when coding :D).
 
-> [!NOTE] 
+> [!WARNING] 
 > At the time of starting this personal site project, 29/03/2025, most of the pages and informations are under contruction.
 
 > [!TIP]
@@ -32,9 +32,7 @@ To see my courses in the current academic year [go to site](https://en.didattica
 
 ## Social Accounts
 
-[LinkedIn](https://www.linkedin.com/in/alessandro-renzi/)
-
-[X](https://x.com/alexnino82)
+[![LinkedIn Logo](images/linkedinlogo.png)LinkedIn](https://www.linkedin.com/in/alessandro-renzi/)
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/alexnino82)
 ](https://x.com/alexnino82)
