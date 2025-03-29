@@ -9,6 +9,7 @@ I can program in Julia, Fortran, C, Python, C++ (listed in order of enjoyment wh
 - [Curriculum Vitae](#curriculum-vitae)
 - [Teaching](#teaching)
 - [Learning and Training](#learning-and-training)
+- [My codes](#my-codes)
 - [List of Publication](#list-of-publication)
 - [Social Account](#social-account)
 
@@ -20,15 +21,20 @@ Follow the link for the [CV Extended Version](./cv/extended_cv.md).
 
 To see the list of my courses in the current academic year follow this [link](https://en.didattica.unipd.it/off/docente/5F749F2E49E4888AE8B2F471823535B3).
 
-- [Modern Computing for Physics](https://baltig.infn.it/alexnino/modern-computing-for-physics-pod-y2425) - GPU and HPC - Course for the Physics of Data MSc
+- [Modern Computing for Physics](./teaching/mc4p/mc4p-index.md) - GPU and HPC - Course for the [Physics of Data MSc](https://www.unipd.it/en/educational-offer/second-cycle-degree/school-of-science?tipo=LM&scuola=SC&ordinamento=2025&key=SC2995)
 
-- [Scientific Computing for Physics Students](https://baltig.infn.it/alexnino/scientific-computing-for-physics-students-phd-y2425) - Learn the fundamentals of numerical programming for scientists - Course for the Physics PhD
+- [Scientific Computing for Physics Students](./teaching/sc4ps/sc4ps-index.md) - Learn the fundamentals of numerical programming for scientists - Course for the [Physics PhD](https://www.unipd.it/en/phd/physics)
 
 ## Learning and Training
 
 My notes about topics I want to learn. 
 
 - [Programming with Julia](./learn/Julia/julia-index.md) - How to start developing with the Julia programming language.
+
+## My codes
+
+> [!IMPORTANT]
+> TODO
 
 ## List of Publication
 
