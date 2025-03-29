@@ -4,9 +4,11 @@ I am a researcher in cosmology at the [University of Padova](https://www.unipd.i
 
 I can program in Julia, Fortran, C, Python, C++ (listed in order of enjoyment when coding :D).
 
-:warning: At the time of starting this personal site project, 29/03/2025, most of the pages and informations are under contruction.
+[!NOTE] 
+At the time of starting this personal site project, 29/03/2025, most of the pages and informations are under contruction.
 
-:bulb: Useful [Markdown Guide](https://www.markdownguide.org/hacks/) for particular Markdown features.
+[!TIP]
+Useful [Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax/) for GitHub Markdown features.
 
 ## Table of Contents
 
