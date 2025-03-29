@@ -34,4 +34,7 @@ To see my courses in the current academic year [go to site](https://en.didattica
 
 [LinkedIn](https://www.linkedin.com/in/alessandro-renzi/)
 
-[Twitter](https://twitter.com/alexnino82)
+[X](https://x.com/alexnino82)
+
+[![X URL](https://img.shields.io/x/url/https/x.com/alexnino82.svg?style=social&label=Follow%20%40alexnino82)](https://x.com/alexnino82)
+
