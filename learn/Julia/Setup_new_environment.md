@@ -23,4 +23,4 @@ if isfile("Project.toml") && isfile("Manifest.toml")
 end
 ```
 
-\[[Index](./julia-index.md)\] \[[Next](./01-Create_new_package.md)\]
+\[[Index](./julia-index.md)\] \[[Next](./Create_new_package.md)\]

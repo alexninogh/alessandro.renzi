@@ -22,4 +22,4 @@ using Needlets
 ```
 Now you can start developing the package!
 
-\[[Back](00-Setup_new_environment.md)\] \[[Index](./julia-index.md)\] <!-- \[[Next](./01-Developing_a_package.md)\] -->
+\[[Back](Setup_new_environment.md)\] \[[Index](./julia-index.md)\] <!-- \[[Next](./01-Developing_a_package.md)\] -->
