@@ -2,12 +2,13 @@
 
 I am a researcher in cosmology at the [University of Padova](https://www.unipd.it/en/contatti/rubrica?detail=Y&ruolo=1&checkout=cerca&persona=renzi&key=5F749F2E49E4888AE8B2F471823535B3) (UniPD) and National Institute of Nuclear Physics - [INFN](https://baltig.infn.it/alexnino/alessandro.renzi). My work is at the crossroads of Cosmology, High Performance Computing, Data Analysis and Signal Processing.
 
-I can program in Julia, Fortran, C, Python, C++ (listed in order of enjoyment when coding :D).
+I can program in Julia, Fortran, C, Python, C++ (listed in order of enjoyment when coding :stuck_out_tongue_winking_eye:).
 
 ## Table of Contents
 
 - [Curriculum Vitae](#curriculum-vitae)
 - [Teaching](#teaching)
+- [Learning and Training](#learning-and-training)
 - [List of Publication](#list-of-publication)
 - [Social Account](#social-account)
 
@@ -17,13 +18,17 @@ Follow the link for the [CV Extended Version](./cv/extended_cv.md).
 
 ## Teaching
 
-To see my courses in the current academic year follow this [link](https://en.didattica.unipd.it/off/docente/5F749F2E49E4888AE8B2F471823535B3).
+To see the list of my courses in the current academic year follow this [link](https://en.didattica.unipd.it/off/docente/5F749F2E49E4888AE8B2F471823535B3).
 
-<!-- - [Modern Computing for Physics](https://baltig.infn.it/alexnino/modern-computing-for-physics-pod-y2425) - Physics of Data MSc
+- [Modern Computing for Physics](https://baltig.infn.it/alexnino/modern-computing-for-physics-pod-y2425) - GPU and HPC - Course for the Physics of Data MSc
 
-- [Scientific Computing for Physics Students](https://baltig.infn.it/alexnino/scientific-computing-for-physics-students-phd-y2425) - Physics PhD -->
+- [Scientific Computing for Physics Students](https://baltig.infn.it/alexnino/scientific-computing-for-physics-students-phd-y2425) - Learn the fundamentals of numerical programming for scientists - Course for the Physics PhD
 
-- [Programming with Julia](./teaching/Julia/julia-index.md) - Some notes to start developing with the Julia programming language.
+## Learning and Training
+
+My notes about topics I want to learn. 
+
+- [Programming with Julia](./learn/Julia/julia-index.md) - How to start developing with the Julia programming language.
 
 ## List of Publication
 
@@ -31,7 +36,8 @@ You can see the full list of my publication using the following [link](https://u
 
 ### List of Selected Publication
 
-TODO
+> [!IMPORTANT]
+> TODO
 
 ## Social Account
 
