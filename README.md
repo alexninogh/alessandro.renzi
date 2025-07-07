@@ -30,6 +30,7 @@ To view the list of courses I'm teaching in the current academic year, please cl
 My notes about topics I want to learn. 
 
 - [Programming with Julia](./learn/Julia/julia-index.md) - How to start developing with the Julia programming language.
+- [Parallel Programming for Numerical Computing](./learn/parallel_programming_for_numerical_computing/pp4nc-index.md) - How can we do numerical computing with parallel programming?
 
 ## My codes
 
