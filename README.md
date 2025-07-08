@@ -8,7 +8,7 @@ I can program in Julia, Fortran, C, Python, C++ (listed in order of enjoyment wh
 
 - [Curriculum Vitae](#curriculum-vitae)
 - [Teaching](#teaching)
-- [Learning and Training](#learning-and-training)
+- [Learning by Teaching](#learning-by-teaching)
 - [My codes](#my-codes)
 - [List of Publication](#list-of-publication)
 - [Social Account](#social-account)
@@ -19,18 +19,14 @@ Follow the link for the [CV Extended Version](https://unipdit-my.sharepoint.com/
 
 ## Teaching
 
-To view the list of courses I'm teaching in the current academic year, please click on this [link](https://en.didattica.unipd.it/off/docente/5F749F2E49E4888AE8B2F471823535B3). To view the complete list of courses I've taught to date, please click [here](https://www.unipd.it/en/contatti/rubrica?detail=Y&ruolo=1&checkout=cerca&persona=renzi&key=5F749F2E49E4888AE8B2F471823535B3) 
+To view the list of courses I'm teaching in the current academic year, please click on this [link](https://en.didattica.unipd.it/off/docente/5F749F2E49E4888AE8B2F471823535B3).
 
-- [Modern Computing for Physics](./teaching/mc4p/mc4p-index.md) - GPU and HPC - Course for the [Physics of Data MSc](https://www.unipd.it/en/educational-offer/second-cycle-degree/school-of-science?tipo=LM&scuola=SC&ordinamento=2025&key=SC2995)
+To view the complete list of courses I've taught to date, please click [here](https://www.unipd.it/en/contatti/rubrica?detail=Y&ruolo=1&checkout=cerca&persona=renzi&key=5F749F2E49E4888AE8B2F471823535B3).
 
-- [Scientific Computing for Physics Students](./teaching/sc4ps/sc4ps-index.md) - Learn the fundamentals of numerical programming for scientists - Course for the [Physics PhD](https://www.unipd.it/en/phd/physics)
+## Learning by Teaching
 
-## Learning and Training
-
-My notes about topics I want to learn. 
-
-- [Programming with Julia](./learn/Julia/julia-index.md) - How to start developing with the Julia programming language.
-- [Parallel Programming for Numerical Computing](./learn/parallel_programming_for_numerical_computing/pp4nc-index.md) - How can we do numerical computing with parallel programming?
+My notes about topics I want to learn (by teaching)
+- [HPC for Physics](https://github.com/alexninogh/HPCPhysicist).
 
 ## My codes
 
@@ -41,10 +37,6 @@ My notes about topics I want to learn.
 
 You can see the full list of my publication using the following [link](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FRenzi%2C%20A%2FRenzi%2C%20A%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FRenzi%2C%20A%2FRenzi%2C%20Alessandro%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FRenzi%2C%20A%2FRenzi%2C%20A%22%20OR%20author_facet_hier%3A%221%2FRenzi%2C%20A%2FRenzi%2C%20Alessandro%22)&p_=0&q=%20author%3A%22renzi%2C%20alessandro%22&sort=date%20desc%2C%20bibcode%20desc).
 
-### List of Selected Publication
-
-> [!IMPORTANT]
-> TODO
 
 ## Social Account
 
