@@ -1,6 +1,6 @@
 # Personal site of Alessandro Renzi
 
-I am a researcher in cosmology at the [University of Padova](https://unipd.it/en) (UniPD) and National Institute of Nuclear Physics - [INFN](https://infn.it/en). My research lies at the intersection of Cosmology, High-Performance Computing, Data Analysis, and Signal Processing.
+I am a researcher in physics working on cosmology and data analysis at the [University of Padova](https://unipd.it/en) (UniPD) and National Institute of Nuclear Physics - [INFN](https://infn.it/en). My research lies at the intersection of Cosmology, High-Performance Computing, Data Analysis, and Signal Processing.
 
 I can program in Julia, Fortran, C, Python, C++ (listed in order of enjoyment when coding :stuck_out_tongue_winking_eye:).
 
@@ -30,7 +30,7 @@ My notes about topics I want to learn (by teaching)
 
 ## My codes
 
-> [!IMPORTANT]
+> [!WARNING]
 > TODO
 
 ## List of Publication
